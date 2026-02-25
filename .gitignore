@@ -75,3 +75,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /CharacterInteraction/Saved
 /CharacterInteraction/Intermediate
+/CharacterInteraction/DerivedDataCache
